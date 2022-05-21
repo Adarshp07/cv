@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1, h3 {
+    color: rgb(193, 163, 43)
+    text-align: right;
+  }
+  
+table {
+    font-family: verdana;
+    font-size: 10px;
+  }
